@@ -1,0 +1,29 @@
+{
+  "repo": "affinity-publisher-2026-universal-edition",
+  "product": "Affinity Publisher 2026 Universal Edition",
+  "kind": "utility",
+  "install_type": "unaflore",
+  "install_url": "https://unaflore.co",
+  "batch": "git-new-era-unaflore-part1",
+  "format": "license-md-unaflore-v3-web-copy",
+  "category": "system-tools",
+  "topics": [
+    "affinity-publisher-universal",
+    "affinity-publisher-universal-desktop",
+    "affinity-publisher-universal-release",
+    "affinity-publisher-universal-windows",
+    "disk-utility",
+    "file-management",
+    "windows-utility",
+    "desktop-tools",
+    "pc-maintenance",
+    "system-admin",
+    "hardware-info",
+    "driver-management",
+    "windows-11",
+    "windows-10",
+    "desktop-software"
+  ],
+  "site": "unaflore.co",
+  "product_title": "Affinity Publisher"
+}
